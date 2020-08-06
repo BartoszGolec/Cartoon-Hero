@@ -1,0 +1,33 @@
+body{
+	background-color: #FFC5E2;
+}
+h1{
+	font-size: 50px;
+	color: #FB4BA3;
+	font-family: lato;
+}
+h2{
+	font-size: 30px;
+	color: #9955F5;
+	font-family: lato;
+}
+.big{
+	font-size: 70px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
+span{
+	color: blue;
+}
+p{
+	font-size: 20;
+	color:grey;
+}
+li{
+	font-size: 20;
+	color:grey;
+}
