@@ -5,11 +5,14 @@ h1{
 	font-size: 50px;
 	color: #FB4BA3;
 	font-family: lato;
+	text-transform: uppercase;
+	text-align: center;
 }
 h2{
 	font-size: 30px;
 	color: #9955F5;
 	font-family: lato;
+	text-align: center;
 }
 .big{
 	font-size: 70px;
@@ -26,8 +29,13 @@ span{
 p{
 	font-size: 20;
 	color:grey;
+	font-family: lato;
 }
 li{
 	font-size: 20;
 	color:grey;
+	font-family: lato;
+}
+.aligncenter{
+	text-align: center;
 }
